@@ -52,4 +52,11 @@ The line graph feature lets you plot data points on a graph to visualize trends 
 
 ## Application Layout
 
+![image](https://github.com/AmishiDesai04/Interactive-Data-Visualisation-Tool/assets/170110607/23f7ed03-edd8-46fa-8d4f-99a2060cb850)
+
+![image](https://github.com/AmishiDesai04/Interactive-Data-Visualisation-Tool/assets/170110607/51bf9691-e1a0-439c-ab96-c1bab1037660)
+
+![image](https://github.com/AmishiDesai04/Interactive-Data-Visualisation-Tool/assets/170110607/8a4cbc79-2069-4811-a172-c0b29a121ed6)
+
+![image](https://github.com/AmishiDesai04/Interactive-Data-Visualisation-Tool/assets/170110607/fd5ae656-2c2b-444e-8506-b5f65f9aee05)
 
