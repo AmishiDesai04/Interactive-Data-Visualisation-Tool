@@ -54,10 +54,18 @@ The line graph feature lets you plot data points on a graph to visualize trends 
 
 <img src="https://github.com/AmishiDesai04/Interactive-Data-Visualisation-Tool/assets/170110607/7d3e49ed-77f3-4066-a6a7-f7ea21a51ae9" width="900px" height="500px"> 
 
-<img src="https://github.com/AmishiDesai04/Interactive-Data-Visualisation-Tool/assets/170110607/7d3e49ed-77f3-4066-a6a7-f7ea21a51ae9" width="900px" height="500px"> 
+<img src="https://github.com/AmishiDesai04/Interactive-Data-Visualisation-Tool/assets/170110607/88f70af5-caab-4fee-92aa-fa2b5b6f2954" width="900px" height="500px"> 
 
-<img src="https://github.com/AmishiDesai04/Interactive-Data-Visualisation-Tool/assets/170110607/7d3e49ed-77f3-4066-a6a7-f7ea21a51ae9" width="900px" height="500px"> 
+<img src="https://github.com/AmishiDesai04/Interactive-Data-Visualisation-Tool/assets/170110607/02a7e374-e10f-4f17-a077-171aa8a2f1af" width="900px" height="500px"> 
 
-<img src="https://github.com/AmishiDesai04/Interactive-Data-Visualisation-Tool/assets/170110607/7d3e49ed-77f3-4066-a6a7-f7ea21a51ae9" width="900px" height="500px"> 
+<img src="https://github.com/AmishiDesai04/Interactive-Data-Visualisation-Tool/assets/170110607/c9ec80ec-5dce-4ed4-bb73-4122a8b33ba8" width="900px" height="500px"> 
+
+## Authors 
+
+This project is co-owned by: [@AmishiDesai04](https://www.github.com/AmishiDesai04) [@chahelgupta](https://www.github.com/chahelgupta) 
+
+##
+
+
 
 
