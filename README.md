@@ -44,7 +44,7 @@ Welcome to the Data Visualization Tool repository. This Java-based application i
 - **Pie Chart:** <br>
   The pie chart feature allows you to input data points that represent different categories. Each category will be displayed as a slice of the pie, with its size proportional to the category's value relative to the total.
   
-- **Bar Graph**<br>
+- **Bar Graph**<br> 
 With the bar chart feature, you can compare different categories side-by-side. This is useful for showing differences in quantities or tracking changes across categories.
 
 - **Line Graph**<br>
