@@ -62,7 +62,7 @@ The line graph feature lets you plot data points on a graph to visualize trends 
 
 ## Authors 
 
-This project is co-owned by: [@AmishiDesai04](https://www.github.com/AmishiDesai04) [@chahelgupta](https://www.github.com/chahelgupta) 
+This project is co-owned by: [@AmishiDesai04](https://www.github.com/AmishiDesai04) [@chahelgupta](https://www.github.com/chahelgupta) [@reneeka](https://www.github.com/reneeka)
 
 ##
 
